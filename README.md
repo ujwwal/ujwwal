@@ -5,8 +5,7 @@
 -->
 - 🌱 I’m currently learning ML/AI
 - 👯 I’m looking to collaborate on any F1 projects?
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about F1
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Microsoft once sent an Xbox into space
 
