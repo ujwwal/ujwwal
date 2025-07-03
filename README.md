@@ -1,17 +1,14 @@
-## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujwwal&langs_count=8)](https://github.com/ujwwal/github-readme-stats)
-[![Ujwwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujwwal)](https://github.com/ujwwal/github-readme-stats)
+## Hi there 👋, Ujwwal Here
+
 <!--
 **ujwwal/ujwwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+-->
+- 🌱 I’m currently learning ML/AI
+- 👯 I’m looking to collaborate on any F1 projects?
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Microsoft once sent an Xbox into space
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujwwal&langs_count=8)](https://github.com/ujwwal/github-readme-stats)
+[![Ujwwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujwwal)](https://github.com/ujwwal/github-readme-stats)
